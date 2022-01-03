@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niohori
 - 👀 I’m interested in phyiscs, mathematics
 - 🌱 I’m currently learning tensor calculus
-- 💞️ I’m looking to collaborate on a solution manual for the xercixes in "Tensor Calculus" by J.L Synge & A.schild
+- 💞️ I’m looking to collaborate on a solution manual for the exercises in "Tensor Calculus" by J.L Synge & A.schild
 - 📫 How to reach me ...
 
 <!---
