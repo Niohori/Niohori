@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niohori
 - 👀 I’m interested in phyiscs, mathematics
-- 🌱 especially, general relativity and blacks holesd
+- 🌱 especially, general relativity and black holes
 - 📫 How to reach me ...
 
 <!---
