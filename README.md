@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Niohori
 - 👀 I’m interested in phyiscs, mathematics
-- 🌱 especially, general relativity and blacks holes
-- 💞️ I’m looking to collaborate on a solution manual for the exercises in "Tensor Calculus" by J.L Synge & A.schild
+- 🌱 especially, general relativity and blacks holesd
 - 📫 How to reach me ...
 
 <!---
