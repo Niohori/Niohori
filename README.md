@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niohori
-- 👀 I’m interested in phyiscs, mathematics
+- 👀 I’m interested in physicss, mathematics
 - 🌱 especially, general relativity and black holes
 - 📫 How to reach me ...
 
